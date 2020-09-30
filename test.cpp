@@ -1,8 +1,6 @@
 // *********************************************************************
-// Made with BCX BASIC To C/C++ Translator - Version 7.5.6 (2020/09/27)
 // *********************************************************************
-//              Translated for compiling with a C++ Compiler
-// *********************************************************************
+
 #define _CRT_SECURE_NO_DEPRECATE
 #include <windows.h>    // WinApi
 #include <windowsx.h>   // WinApi
