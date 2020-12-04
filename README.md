@@ -8,7 +8,7 @@ Only 简体中文,Sorry!
 
 二、CACG（C++ Abstract Class Generator），见附图。
     支持Class的Setter和Getter，在规划好，设计好类成员后，快速生成C++抽象类框架。
-让你把精力放在类的规划和设计上面。也可改用到C++的struct结构构建。
+让你把精力放在类的规划和设计上面。也可改用到C++的struct结构构建。(UML工具用舒服的请略过...)
 
 三、MinGW32 C/C++包含文件:
      形参没有变量名称。先对文件进行LF的Win32 CRLF格式化；利用程序将TMD-Gcc包含文件中的函数参数名称移过来。
