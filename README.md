@@ -3,7 +3,7 @@ Only 简体中文,Sorry!
 
 一、为VSCode 配置 松散C/C++ Gui库Snippet，为高效率程序助攻！！！
    包含基本的Win32 SDK Gui程序控件所需，后期将进行细化和强化，以及界面美化OwnerDraw方面的功能。
-计算机应是崇尚高效运行，而不是垃圾代码满天飞。我喜欢C和C++的混搭！！！(目前Snippet字符共8000+行，
+计算机应是崇尚高效运行，而不是垃圾代码满天飞。我喜欢C和C++的混搭！！！(目前Snippet共8000+行，
 修改VSCode默认5000，累花我眼睛了，啊啊啊啊)
 
 二、CACG（C++ Abstract Class Generator），见附图。
