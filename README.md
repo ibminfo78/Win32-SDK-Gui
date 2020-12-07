@@ -1,4 +1,4 @@
-# Win32SDK-Gui
+# Win32 SDK Gui
 Only简体中文,Sorry!
 
 一、为VSCode配置"松散"Win32 C/C++ Gui库的Snippet，为高效率程序助攻！！！该Snippet包含Win32 SDK Gui程序基础控件所需，后期将进行细化和强化；及控件美化OwnerDraw方面的功能。计算机应是崇尚高效运行，而非垃圾代码，我崇尚C和C++的混搭！！！(目前Snippet共9000+行， 修改VSCode默认5000，累花我眼睛了，啊啊啊啊)
