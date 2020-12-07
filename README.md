@@ -1,7 +1,7 @@
 # Win32 SDK Gui
 Only简体中文,Sorry!
 
-一、为VSCode配置"松散"Win32 C/C++ Gui库的Snippet，为高效率程序助攻！！！该Snippet包含Win32 SDK Gui程序基础控件所需，后期将进行细化和强化；及控件美化OwnerDraw方面的功能。计算机应用应是高效运行，而非堆砌垃圾代码，我崇尚C和C++的混搭！！！(目前该Snippet共9000+行， 请修改VSCode默认5000，累花我眼睛了，啊啊啊啊)
+一、为VSCode配置"松散"Win32 C/C++ Gui库的Snippet，为高效率程序助攻(意大利面条🍝不用做得长长的，也可以做得体现出逻辑、类思想)！！！该Snippet包含Win32 SDK Gui程序基础控件所需，后期将进行细化和强化；及控件美化OwnerDraw方面的功能。计算机应用应是高效运行，而非堆砌垃圾代码，我崇尚C和C++的混搭！！！(目前该Snippet共9000+行， 请修改VSCode默认5000，累花我眼睛了，啊啊啊啊)
 
 二、CACG（C++ Abstract Class Generator）功能见附图。支持Class的Setter和Getter自动生成，支持自动去除变量前缀，支持自动辨认成员函数类型，处理基类等功能。在规划、设计好类成员、方法函数后名后，可快速生成C++抽象类框架，让你把精力放在Class类的规划和设计上面。当然，也可改用到C++的struct结构构建上。(UML工具用着舒服的请略过...)
 
