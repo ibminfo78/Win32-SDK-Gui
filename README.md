@@ -11,4 +11,4 @@ Only简体中文,Sorry!
 
 如果有用，如果可以，愉快接受您的资助和帮助，谢谢！ （让您受累了。新建文件夹功能在哪里？麻烦知道告诉我，找不到啊，WC。）
 
-                                            C.F.(Code Farmer) Tool    //我爱中国!!!  
+                                            C.F.(Code Farmer) Tool  (Win32 SDK RAD资深爱好者:IBMInfo78@126.com)    //爱中国!!!  
