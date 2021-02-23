@@ -1,7 +1,7 @@
 # Win32 SDK Gui
 Only简体中文,Sorry!
 
-一、为VSCode配置"松散"Win32 C/C++ Gui库的Snippet，为高效率程序助攻(意大利面条🍝不用做得长长的，也可以做得体现出逻辑、类思想)！！！该Win32 SDK C/C++ Gui高效程序之高效开发工具。基于Windowsx.H宏或自编代码。免费分发，仅需前往。编辑器，还是VSCode牛逼。该代码主要适用于C++，C语言。该代码集合共30000＋行，VSCode Snippet最大可开到20000+行。目前涵盖Win32常见、常用基本类创建、函数、Setter/Getter、SubClassProc、SuperClassProc、AllMsgProc模版；并包含Win32主要、常用WM_消息；融合了MessageCrack的功能，并完善了其没有完成的部分函数；并包含了Gdi绘画典型、应用案例。如：
+一、Win32 SDK C/C++ Gui高效程序之高效开发工具 V1.0。该VSCode配置"松散"Win32 C/C++ Gui库的Snippet，为高效率程序助攻(意大利面条🍝不用做得长长的，也可以做得体现出逻辑、类思想)！！！基于Windowsx.H宏或自编代码。免费分发，仅需前往。编辑器，还是VSCode牛逼。该代码主要适用于C++，C语言。该代码集合共30000＋行，VSCode Snippet最大可开到20000+行。目前涵盖Win32常见、常用基本类创建、函数、Setter/Getter、SubClassProc、SuperClassProc、AllMsgProc模版；并包含Win32主要、常用WM_消息；融合了MessageCrack的功能，并完善了其没有完成的部分函数；并包含了Gdi绘画典型、应用案例。如：
 
 // //预先声明、定义WM_MOUSEMOVE Message for Window/Dialog/Ctrl:Form
 
